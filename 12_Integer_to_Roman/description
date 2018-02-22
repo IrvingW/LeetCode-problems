@@ -1,0 +1,6 @@
+Given an integer, convert it to a roman numeral.
+
+Input is guaranteed to be within the range from 1 to 3999.'
+
+
+由于输入数字的范围设定，考虑用贪心法是一个捷径。
