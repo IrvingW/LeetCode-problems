@@ -1,0 +1,3 @@
+Determine whether an integer is a palindrome. Do this without extra space.
+
+不允许使用额外的空间，也就是不可以转变成字符串然后比较
